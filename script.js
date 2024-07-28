@@ -133,7 +133,7 @@
             } else {
               clearInterval(autoCopyInterval);
             }
-          }, 4000);
+          }, 6000);
         });
 
         stopAutoCopyButton.addEventListener('click', () => {
